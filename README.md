@@ -55,7 +55,7 @@ I enjoy experimenting with small projects and turning ideas into something tangi
 
 ###  Software & Tools
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="70" height="70"/> &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="55" height="55"/> &nbsp;&nbsp;&nbsp;
 <br/><br/>
 
